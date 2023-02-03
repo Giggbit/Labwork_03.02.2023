@@ -8,13 +8,6 @@ namespace Labwork_03._02._2023
 {
     internal class Program
     {
-        /*static public void Swap(int min_index, int max_index, int[][,] myMixedArray) {
-            int[,] arr = myMixedArray[min_index];
-            int min_index2 = min_index;
-            myMixedArray[min_index] = myMixedArray[max_index];
-            myMixedArray[max_index] = myMixedArray[arr[min_index,min_index]];
-        }*/
-
         static void Main(string[] args)
         {
             #region ex1
